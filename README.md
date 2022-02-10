@@ -1,7 +1,7 @@
-# simpleNodeServerAPP
+# Simple Node Server APP
  A simple nodejs server application
 
-#requiriments
+# Requiriments
 - NodeJS
 
 # To Run:
