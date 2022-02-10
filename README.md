@@ -1,5 +1,5 @@
 # simpleNodeServerAPP
  A simple nodejs server application
 
-#To Run:
+# To Run:
 `node app.js`
